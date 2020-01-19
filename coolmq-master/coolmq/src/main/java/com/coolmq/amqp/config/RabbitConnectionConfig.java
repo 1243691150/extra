@@ -13,7 +13,7 @@ import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 
 
-/**
+/**测试2
  * <p><b>Description:</b> Rabbit MQ连接工厂配置
  * <p><b>Company:</b> 
  *
