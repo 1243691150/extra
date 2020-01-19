@@ -24,7 +24,7 @@ import org.springframework.stereotype.Component;
 import com.rabbitmq.client.Channel;
 
 
-/**
+/**测试
  * <p><b>Description:</b> RabbitMQ交换机、队列的配置类.定义交换机、key、queue并做好绑定。
  * 同时定义每个队列的ttl，队列最大长度，Qos等等
  * 这里只绑定了死信队列。建议每个队列定义自己的QueueConfig
